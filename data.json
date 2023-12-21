@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Milo",
+    "status": 20,
+    "pawrent": "su su",
+    "breed": "beagle",
+    "gender": "female",
+    "birth": 2021,
+    "phone": 123243,
+    "address": "yangon"
+  },
+  {
+    "id": 2,
+    "name": "Lu Lu",
+    "status": 30,
+    "pawrent": "Kyaw kyaw",
+    "breed": "spaniel",
+    "gender": "male",
+    "birth": 2020,
+    "phone": 46547,
+    "address": "insein"
+  },
+  {
+    "id": 3,
+    "name": "jelly",
+    "status": 40,
+    "pawrent": "pink pink",
+    "breed": "golden retriever",
+    "gender": "male",
+    "birth": 2019,
+    "phone": 123456,
+    "address": "pyay"
+  },
+  {
+    "id": 4,
+    "name": "sky",
+    "status": 50,
+    "pawrent": "pink pink",
+    "breed": "spaniel",
+    "gender": "male",
+    "birth": 2019,
+    "phone": 789243,
+    "address": "mandalay"
+  },
+  {
+    "id": 5,
+    "name": "kito",
+    "status": 30,
+    "pawrent": "Kyaw kyaw",
+    "breed": "spaniel",
+    "gender": "male",
+    "birth": 2020,
+    "phone": 46547,
+    "address": "insein"
+  }
+]

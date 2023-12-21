@@ -1,0 +1,33 @@
+.container {
+  background-color: #54bab9;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 30px;
+}
+
+
+.icon {
+    color: white;
+    margin-right: 20px;
+}
+
+.image {
+  margin-left: 30px;
+}
+
+.header {
+  color: white;
+  font-style: Poppins;
+  font-size: 12px;
+  font-weight: Semibold;
+  margin-left: 10px;
+}

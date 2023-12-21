@@ -1,0 +1,45 @@
+.table {
+  width: 100%;
+  position: relative;
+}
+
+.thead {
+  font-style: Poppins;
+  font-size: 14px;
+  font-weight: Semibold;
+  color: #54bab9;
+}
+
+.modal {
+  width: 100px;
+  height: 70px;
+  position: absolute;
+  background-color: rgb(241, 237, 237)  ;
+  top:0;
+  right: 20px;
+  border-radius: 10px;
+  box-shadow: #fff;
+}
+
+.pencil,.delete{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.pencil {
+  color: #54bab9;
+}
+
+.delete{
+  color: red;
+}
+
+.button {
+  margin-left: 10px;
+  margin-top: 10px;
+  border: none;
+  font-style: Poppins;
+  font-size: 14px;
+  font-weight: regular;
+  color: #000000;
+}

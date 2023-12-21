@@ -1,0 +1,193 @@
+.container {
+  background-color: #fff;
+  margin: 20px;
+  position: relative;
+  height: 100vh;
+}
+
+.block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.firstblock,
+.secondblock {
+  padding: 20px;
+}
+
+.header {
+  font-style: Poppins;
+  font-size: 22px;
+  font-weight: Semibold;
+  color: #54bab9;
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 250px;
+  height: 30px;
+  border-radius: 10px;
+  padding: 5px;
+  color: rgba(68, 68, 68, 0.5);
+  border: 1px solid rgba(68, 68, 68, 0.5);
+  font-style: Poppins;
+  font-size: 14px;
+  font-weight: regular;
+}
+
+.icon {
+  position: absolute;
+  inset: 75px;
+  color: #54bab9;
+  margin-left: 160px; 
+}
+
+.select {
+  margin-top: 10px;
+}
+
+.selectone,
+.selecttwo,
+.selectthree {
+  width: 46%;
+  height: 30px;
+  border-radius: 10px;
+  border: 1px solid rgba(68, 68, 68, 0.5);
+  text-align: center;
+  font-style: Poppins;
+  font-size: 14px;
+  font-weight: regular;
+  color: #000000;
+}
+
+.selectone {
+  margin-right: 18px;
+}
+
+.secondblock {
+  align-items: center;
+}
+
+.button {
+  margin-top: 40px;
+  width: 250px;
+  height: 30px;
+  border-radius: 10px;
+  border: 1px solid #54bab9;
+  background-color: #54bab9;
+  font-style: Poppins;
+  font-size: 14px;
+  font-weight: regular;
+  color: #ffffff;
+}
+
+.plus {
+  margin-right: 20px;
+}
+
+.p {
+  margin-top: 10px;
+  margin-left: 5px;
+  font-style: Poppins;
+  font-size: 14px;
+  font-weight: regular;
+  color: #000000;
+}
+
+.selectthree {
+  margin-left: 23px;
+  color: #54bab9;
+}
+
+.modalblock {
+  width: 700px;
+  background-color: #fff;
+  position: absolute;
+  margin-left: 300px;
+  border-radius: 20px;
+  top: 150px;
+}
+
+.blockone {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.text {
+  text-align: center;
+  font-style: Poppins;
+  font-size: 18px;
+  font-weight: medium;
+  color: #54bab9;
+  margin-bottom: 10px;
+}
+
+.textone {
+  font-style: Poppins;
+  font-size: 12px;
+  font-weight: regular;
+  color: #444444;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.inputone {
+  width: 250px;
+  height: 30px;
+  margin: 8px 0;
+  display: inline-block;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.selectfour {
+  width: 250px;
+  height: 30px;
+}
+
+.gender {
+  margin-top: 20px;
+}
+
+.female {
+  margin-left: 50px;
+}
+
+.blockthree {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.label {
+  font-style: Poppins;
+  font-size: 12px;
+  font-weight: regular;
+  color: #444444;
+}
+
+.savebtn,
+.cancelbtn {
+  width: 100px;
+  height: 30px;
+  font-style: Poppins;
+  font-size: 14px;
+  font-weight: regular;
+}
+
+.buttontype{
+  margin-left:250px;
+}
+
+.savebtn {
+  color: #fff;
+  background-color: #54bab9;
+  border: 1px solid #54bab9;
+}
+
+.cancelbtn{
+  margin-left: 30px;
+  color: #000000;
+}
